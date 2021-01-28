@@ -28,6 +28,8 @@ However, there have been a few globally accepted ways by which one can address t
 
 Now, since we have a better and deeper understanding of the problem at hand, we are going to shift our focus towards a much more grave concern - which is about forecsting these talent shortages before hand and being ready to cater to them the moment they occur. 
 
-    In order to fill up this predicament, we are going to implement the use of data analytics - Artificial Neural Networkds or Deep Learning to be more speicific.
-    The end result will be something like a model that will help organizations predict or forecast Manpower Demand from time to time in which in turn will increase 
+    In order to fill up this predicament, we are going to implement the use of data analytics - 
+    Artificial Neural Networkds or Deep Learning to be more speicific.
+    The end result will be something like a model that will help organizations predict or forecast 
+    Manpower Demand from time to time in which in turn will increase 
     productivity as well as lead to optimum utilization of resources as well as maximized performance.
